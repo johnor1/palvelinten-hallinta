@@ -93,9 +93,9 @@ Tässä harjoituksessa luomani hakemistot ja tiedostot.
 ![Lopputulos](img/h1_hello_ansible_lopputulos.png)
 
 
+## Loppuyhteenveto
 
-
-
+Tehtävässä asensin Debian 13 -virtuaalikoneeseeni SSH-palvelun ja otin käyttöön SSH:n perustuvan kirjautumisen localhostiin. Asensin Ansible-konfiguraationhallintatyökalun. Loin inventaariotiedoston (hosts.ini), Ansiblen asetustiedoston (ansible.cfg), sekä ensimmäisen playbookin (site.yml). Tämän jälkeen rakensin ensimmäisen Ansible-roolin, jonka avulla palvelimelle luotiin tiedosto automaattisesti. Harjoitus havainnollisti, kuinka Ansiblella voidaan automatisoida palvelimien hallintaa.
 
 
 
