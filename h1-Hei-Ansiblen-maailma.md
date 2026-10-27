@@ -32,7 +32,7 @@ Loin tätä kurssia varten jo ennen ensimmäistä luentoa uuden virtuaalikoneen 
 
 ### b) SSH:n asennus Debianiin ja avaimella kirjautuminen localhostiin
 
-Aloitin tekemään tätä osaa tehtävästä jo luennolla, joten kuvakaappaukset voivat olla vähän, mutta laitetaan sen piikkiin, että tämä on kurssin ensimmäinen raportti.
+Aloitin tekemään tätä osaa tehtävästä jo luennolla, joten kuvakaappaukset voivat olla vähän eri aikoihin otettu (esim host-nimi muuttuu jossain vaiheessa), mutta laitetaan sen piikkiin, että tämä on kurssin ensimmäinen raportti.
 
 Asennan SSH:n komennolla
 
