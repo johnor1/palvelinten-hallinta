@@ -211,7 +211,7 @@ Kopioi roolin files-hakemistossa olevan vsftpd.conf-tiedoston kohdekoneelle hake
 
 notify: restart vsftpd käynnistää handlerin, jos tiedoston sisältö muuttuu. Handler käynnistää vsftpd-palvelun uudelleen, jotta uudet asetukset tulevat voimaan.
 
-1. **Palvelun hallinta**
+3. **Palvelun hallinta**
 
 Viimeinen tehtävä varmistaa, että vsftpd-palvelu on käynnissä ja käynnistyy automaattisesti palvelimen uudelleenkäynnistyksen jälkeen.
 
